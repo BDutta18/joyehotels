@@ -10,18 +10,7 @@ Welcome to **JoyeHotels**, a web-based platform designed to simplify hotel booki
 - [🧐 Usage](#-usage)  
 - [🤝 Contributing](#-contributing)  
 - [📜 License](#-license)  
-- [📩 Contact](#-contact)  
-
-## ✨ Features  
-
-✅ User-friendly search functionality for hotels  
-✅ Detailed hotel descriptions with images  
-✅ Secure booking process  
-✅ Responsive design for various devices  
-
-## 🎥 Demo  
-
-Experience the **live demo** of JoyeHotels [here](https://codervivek5.github.io/JoyeHotels/).  
+- [📩 Contact](#-contact) 
 
 ## 🚀 Installation  
 
